@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evgenij</h1>
-<h3 align="center">Freelance iOS Developer from Russia, Ekaterinburg</h3>
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on [AnimalApp](https://bitbucket.org/ineedaliens1/animalapp)
 

@@ -1,10 +1,8 @@
 ![Header](./github-header-image.png)
 
-- 🔭 I’m currently working on [AnimalApp](https://bitbucket.org/ineedaliens1/animalapp)
-
 - 🌱 I’m currently learning **iOS Dev / Swift /**
 
-- 👨‍💻 All of my projects are available at [https://bitbucket.org/ineedaliens1](https://bitbucket.org/ineedaliens1)
+- 👨‍💻 All of my projects are available at [https://github.com/ineedaliens](https://github.com/ineedaliens)
 
 
 <h1 align="left">Connect with me:</h1>

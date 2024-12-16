@@ -7,8 +7,7 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-- 📫 How to reach me: https://t.me/ineedaliens <br></br>
-- 🎵 My music channel: https://t.me/ineedaliens_channel
+- 📫 How to reach me: https://t.me/indlns <br></br>
 </p>
 <h1 align="left">Languages and Tools:</h1>
 <p align="left">

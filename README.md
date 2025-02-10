@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 <h3 align="center">indlns from Russia with love</h3>
 
